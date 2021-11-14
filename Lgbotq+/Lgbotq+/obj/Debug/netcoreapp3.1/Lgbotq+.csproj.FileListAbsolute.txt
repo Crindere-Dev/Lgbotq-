@@ -1,0 +1,17 @@
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.exe
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.deps.json
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.runtimeconfig.json
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.runtimeconfig.dev.json
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.dll
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Lgbotq+.pdb
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\Hammock.ClientProfile.dll
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\bin\Debug\netcoreapp3.1\TweetSharp.dll
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.csproj.AssemblyReference.cache
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.AssemblyInfoInputs.cache
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.AssemblyInfo.cs
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.csproj.CoreCompileInputs.cache
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.csproj.CopyComplete
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.dll
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.pdb
+D:\UMMM\Lgbotq-\Lgbotq+\Lgbotq+\obj\Debug\netcoreapp3.1\Lgbotq+.genruntimeconfig.cache
