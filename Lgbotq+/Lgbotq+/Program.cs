@@ -8,10 +8,10 @@ namespace Lgbotq_
     class Program
     {
 
-        private static string customer_key = "ZDaj67rbCIiziBPBT77g5VPTy";
-        private static string customer_key_secret = "mXhchGdiyNWQItl0bHsSuyPdVHXfkaNqOZ8da2BVnH6JJAyz4c";
-        private static string access_token = "1460007607410774022-yoIwgyGOhj2LOJr6dM7BMxMRoxKe6K";
-        private static string access_token_secret = "XbF5qcEQFIFQTxtwKdAKKo482i532alaJS3TfqHjaEl0M";
+        private static string customer_key = "token";
+        private static string customer_key_secret = "token";
+        private static string access_token = "token";
+        private static string access_token_secret = "power";
 
 
         private static TwitterService service = new TwitterService(customer_key, customer_key_secret, access_token, access_token_secret);
